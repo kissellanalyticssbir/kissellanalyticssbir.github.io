@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## SBIR Project
+
+The federally funded Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) programs are designed to stimulate technological innovations by providing financial support to U.S. businesses that are conducting research and developing new technologies. The current project has been designed to better understand these programs, by exploring the types of projects that tend to receive funding, particularly those from the Department of Defense. This webpage provides the details of that project.
+
+### Pages
+
+[**Data Collection:**](https://kissellanalyticssbir.github.io/data_collection) This page contains the details related to the data collection process.
+
+
 
 You can use the [editor on GitHub](https://github.com/kissellanalyticssbir/kissellanalyticssbir.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
